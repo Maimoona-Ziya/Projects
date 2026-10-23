@@ -1,0 +1,27 @@
+/* Styles for School_webpage.html */
+
+body {
+    background-color: pink;
+    font-family: Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: purple;
+}
+
+h2 {
+    text-align: center;
+    color: pink;
+    background-color: rgb(177, 71, 177);
+}
+
+/* Makes images shrink to fit small screens such as phones */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+ul {
+    line-height: 1.8;
+}
